@@ -1,0 +1,12 @@
+{
+ "code": 6,
+ "name": "1.0.6",
+ "notes": "Burime më shumë dhe kontroll më i shpejtë në Real-Debrid, titra shqip nga më shumë vende.",
+ "file": "kinoteka2-6.ktu",
+ "sha256": "6ee40a561a9c553fa40d46376362ec8c90a85f272632b55787903dfb2a82a98b",
+ "size": 4141290,
+ "fb": {
+  "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
+  "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
+ }
+}
