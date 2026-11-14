@@ -1,10 +1,10 @@
 {
- "code": 6,
- "name": "1.0.6",
- "notes": "Burime më shumë dhe kontroll më i shpejtë në Real-Debrid, titra shqip nga më shumë vende.",
- "file": "kinoteka2-6.ktu",
- "sha256": "6ee40a561a9c553fa40d46376362ec8c90a85f272632b55787903dfb2a82a98b",
- "size": 4141290,
+ "code": 8,
+ "name": "1.0.8",
+ "notes": "Titra shqip për çdo film (edhe përkthim automatik), burime më të shpejta, pa versione që ngecin në këtë TV.",
+ "file": "kinoteka2-8.ktu",
+ "sha256": "adf957e85c72583f44b104838f7fe41243be048272689765206a9c268445920d",
+ "size": 4153578,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
