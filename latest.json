@@ -1,9 +1,9 @@
 {
- "code": 11,
- "name": "1.0.11",
- "notes": "Burimet shkruhen qartë (Full HD · nga Blu-ray · gjuha · zëri); i pari është më i miri që luhet pa ngecje me internetin tënd; pa komente, 3D dhe dublime në gjuhë të tjera.",
- "file": "kinoteka2-11.ktu",
- "sha256": "98eeb8af19fbd04fd3b9bcf32f7392081a77486cdc485cf529736521281b4a17",
+ "code": 12,
+ "name": "1.0.12",
+ "notes": "Burimet dalin menjëherë si te Stremio: ato të gatshme në Real-Debrid shfaqen me ⚡ pa pritur; nëse një nuk hapet, hapet vetë tjetri. Filmi nuk pret më për titrat.",
+ "file": "kinoteka2-12.ktu",
+ "sha256": "0b44bb48b34d339281a78537a42c19aa5d9d9abede310d09ce3f96b11fced6a7",
  "size": 4169962,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
