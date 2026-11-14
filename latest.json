@@ -1,10 +1,10 @@
 {
- "code": 8,
- "name": "1.0.8",
- "notes": "Titra shqip për çdo film (edhe përkthim automatik), burime më të shpejta, pa versione që ngecin në këtë TV.",
- "file": "kinoteka2-8.ktu",
- "sha256": "adf957e85c72583f44b104838f7fe41243be048272689765206a9c268445920d",
- "size": 4153578,
+ "code": 9,
+ "name": "1.0.9",
+ "notes": "Lista e burimeve del menjëherë (si te Stremio) dhe kontrollohet në sfond; më shumë burime pa versione kinemaje e shtesa; titra shqip nga më shumë vende, sinkronizim i titrave me telekomandë dhe “Titra të tjera”.",
+ "file": "kinoteka2-9.ktu",
+ "sha256": "de3360515db91edaa0dc34648e84ea349db6212335c5b179ffdad69d6ab3dd42",
+ "size": 4165866,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
