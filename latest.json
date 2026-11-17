@@ -1,9 +1,9 @@
 {
- "code": 16,
- "name": "1.0.16",
- "notes": "Filmat hapen më shpejt edhe kur Real-Debrid bllokon disa kopje (provohen disa njëherësh dhe ato të bllokuara nuk dalin më). Titrat shqip vihen vetë në sinkron me filmin gjatë shikimit.",
- "file": "kinoteka2-16.ktu",
- "sha256": "113e2df60ee13a0edcceb125756506491c88f05732226608292475fd7d717f48",
+ "code": 18,
+ "name": "1.0.18",
+ "notes": "Filmat nisin në gjuhën e tyre (p.sh. Coco në anglisht). Nëse zëri i një kopjeje nuk luhet në këtë pajisje, hapet vetë një kopje tjetër nga i njëjti moment, pa ngecur.",
+ "file": "kinoteka2-18.ktu",
+ "sha256": "6ac6f8b2a65c85c93a1648ce0887ff72dc83bd38a5eb3cba97adf6e614a13228",
  "size": 4178154,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
