@@ -1,10 +1,10 @@
 {
- "code": 30,
- "name": "1.0.30",
- "notes": "Shumë më tepër filma: rreth 42 600, të gjithë me kopje të mira, secili me përshkrim në shqip dhe trailer që punon. Filma shqiptarë të rinj (Babai, Koha e Kometës, Kapedani, Tomka dhe shokët e tij e të tjerë). U hoqën kopjet e rreme të filmave të mëdhenj.",
- "file": "kinoteka2-30.ktu",
- "sha256": "9df50ed1449af3ac5e5bf3495460cd5d828b70c90a3301d7d9ae6ca259b8a3ec",
- "size": 13671739,
+ "code": 33,
+ "name": "1.0.33",
+ "notes": "Filmat nisen më shpejt: burimi i parë përgatitet sapo hapet lista. Një burim i katërt (StremThru) për më shumë kopje. Për TV-të pa Dolby Vision shfaqen edhe kopjet DV + HDR10 (luhen si HDR10), dhe kopjet shumë të mëdha (mbi 40 GB) dalin në fund të listës.",
+ "file": "kinoteka2-33.ktu",
+ "sha256": "9c730f41c61d19df8d769848b94bda6cc341d0e016f77e4a543838839699bf25",
+ "size": 13592828,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
