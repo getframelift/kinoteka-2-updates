@@ -1,10 +1,10 @@
 {
- "code": 18,
- "name": "1.0.18",
- "notes": "Filmat nisin në gjuhën e tyre (p.sh. Coco në anglisht). Nëse zëri i një kopjeje nuk luhet në këtë pajisje, hapet vetë një kopje tjetër nga i njëjti moment, pa ngecur.",
- "file": "kinoteka2-18.ktu",
- "sha256": "6ac6f8b2a65c85c93a1648ce0887ff72dc83bd38a5eb3cba97adf6e614a13228",
- "size": 4178154,
+ "code": 20,
+ "name": "1.0.20",
+ "notes": "Titrat shqip ndjekin filmin edhe më mirë: vihen në sinkron më shpejt, rregullohen vetë edhe kur kopja ka një skenë më shumë, dhe nuk dalin më me vonesë. Zëri: filmat nisin në gjuhën e tyre.",
+ "file": "kinoteka2-20.ktu",
+ "sha256": "0378c64b9ad149e9f07df40e5e78fa9846a76cbdea17056a150c392a34cfe7e6",
+ "size": 4182250,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
