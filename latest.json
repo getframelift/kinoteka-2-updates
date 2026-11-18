@@ -1,10 +1,10 @@
 {
- "code": 28,
- "name": "1.0.28",
- "notes": "Filma shqiptarë të rinj me kopje që punojnë (Babai, Koha e Kometës, Kapedani, Tomka dhe shokët e tij, Uka i Bjeshkëve të Nemura, Mësonjëtorja e të tjerë). Çdo film ka tani përshkrim në shqip. Trailerat u kontrolluan të gjithë: nëse njëri nuk luhet, luhet tjetri.",
- "file": "kinoteka2-28.ktu",
- "sha256": "bcfd817d903ca97f3670d24ac5226444d9a6d1ceade0b6129411e1ba27e6a18d",
- "size": 9357564,
+ "code": 30,
+ "name": "1.0.30",
+ "notes": "Shumë më tepër filma: rreth 42 600, të gjithë me kopje të mira, secili me përshkrim në shqip dhe trailer që punon. Filma shqiptarë të rinj (Babai, Koha e Kometës, Kapedani, Tomka dhe shokët e tij e të tjerë). U hoqën kopjet e rreme të filmave të mëdhenj.",
+ "file": "kinoteka2-30.ktu",
+ "sha256": "9df50ed1449af3ac5e5bf3495460cd5d828b70c90a3301d7d9ae6ca259b8a3ec",
+ "size": 13671739,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
