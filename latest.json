@@ -1,10 +1,10 @@
 {
- "code": 37,
- "name": "1.0.37",
- "notes": "Rregullime pas një kontrolli të plotë: “Vazhdo” tani ka kopje rezervë (p.sh. nëse zëri në anglisht nuk luhet), filmat gjejnë burimet edhe me internet të dobët, dhe filmat pa titra shqip apo anglisht te shërbimet e zakonshme marrin titra anglisht nga OpenSubtitles.org dhe SubDL, të përkthyera në shqip.",
- "file": "kinoteka2-37.ktu",
- "sha256": "55fe7f59e72365d059b2349f1aac11493759f80cf065174f5716ea9cf9f23ed7",
- "size": 13863164,
+ "code": 40,
+ "name": "1.0.40",
+ "notes": "TorBox si rezervë: filmat që Real-Debrid i bllokon luhen prej andej (Cilësimet → Real-Debrid → TorBox). Kopjet me emra që Real-Debrid i bllokon provohen të fundit dhe, kur s’ka të tjera, të thuhet menjëherë. 178 filma shqiptarë të plotë nga YouTube (Kapedani, Tomka dhe shokët e tij, Zonja nga qyteti, Liri a vdekje…). Filma të rinj çdo javë pa përditësim. Hapje më e shpejtë në televizorët e ngadaltë.",
+ "file": "kinoteka2-40.ktu",
+ "sha256": "dcf03ea499ef37f0c262b6a2532861bd89f56a567743eb466085f1d21dbe4488",
+ "size": 13916664,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
