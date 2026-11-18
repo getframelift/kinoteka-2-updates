@@ -1,10 +1,10 @@
 {
- "code": 43,
- "name": "1.0.43",
- "notes": "Titrat shqip në kohë vetë, pa shtypur asgjë: (1) lista vendos të parën kopjen për të cilën janë bërë titrat shqip, dhe (2) kur titrat janë bërë për një kopje tjetër, Kinoteka dëgjon zërin e filmit dhe i vendos titrat aty ku flasin aktorët (edhe kur titrat shkojnë gjithnjë e më shumë para ose pas). Ndodh vetë në minutën e parë të filmit. Edhe: TorBox si rezervë, filma shqiptarë të plotë nga YouTube, filma të rinj çdo javë.",
- "file": "kinoteka2-43.ktu",
- "sha256": "3a2765bf843b6c86d22746da9188a141c5396e76c38ee34f2d06e09bc7e7c685",
- "size": 13924856,
+ "code": 44,
+ "name": "1.0.44",
+ "notes": "Titrat shqip në kohë që në fillim: Kinoteka dëgjon pjesë të filmit më përpara (edhe kur filmi nis me këngë, si Toy Story) dhe i vendos titrat në vend brenda gjysmë minute nga nisja. Kujtohet për herën tjetër.",
+ "file": "kinoteka2-44.ktu",
+ "sha256": "4099278176bd7b854846aef04227273198e7760e616c7b03a6f9fdd3191bb3f8",
+ "size": 13933048,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
