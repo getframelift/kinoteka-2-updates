@@ -1,10 +1,10 @@
 {
- "code": 26,
- "name": "1.0.26",
- "notes": "Shumë më tepër filma: rreth 24 650 (ishin rreth 5 000), të gjithë me disa kopje të mira, shumë në 4K. U hoqën hyrjet e rreme, si “The Odyssey” (2026) i rremë, dhe klipet që s'ishin filma. Më pak ngecje gjatë shikimit. Filmat që janë ende vetëm në kinema nuk hapin kopje të rreme.",
- "file": "kinoteka2-26.ktu",
- "sha256": "16a2f383a803b8ae75f9910e5a7e852e9c7b34d64bbdc0d876cd3d66d29ebe27",
- "size": 6627622,
+ "code": 28,
+ "name": "1.0.28",
+ "notes": "Filma shqiptarë të rinj me kopje që punojnë (Babai, Koha e Kometës, Kapedani, Tomka dhe shokët e tij, Uka i Bjeshkëve të Nemura, Mësonjëtorja e të tjerë). Çdo film ka tani përshkrim në shqip. Trailerat u kontrolluan të gjithë: nëse njëri nuk luhet, luhet tjetri.",
+ "file": "kinoteka2-28.ktu",
+ "sha256": "bcfd817d903ca97f3670d24ac5226444d9a6d1ceade0b6129411e1ba27e6a18d",
+ "size": 9357564,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
