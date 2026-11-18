@@ -1,10 +1,10 @@
 {
- "code": 20,
- "name": "1.0.20",
- "notes": "Titrat shqip ndjekin filmin edhe më mirë: vihen në sinkron më shpejt, rregullohen vetë edhe kur kopja ka një skenë më shumë, dhe nuk dalin më me vonesë. Zëri: filmat nisin në gjuhën e tyre.",
- "file": "kinoteka2-20.ktu",
- "sha256": "0378c64b9ad149e9f07df40e5e78fa9846a76cbdea17056a150c392a34cfe7e6",
- "size": 4182250,
+ "code": 26,
+ "name": "1.0.26",
+ "notes": "Shumë më tepër filma: rreth 24 650 (ishin rreth 5 000), të gjithë me disa kopje të mira, shumë në 4K. U hoqën hyrjet e rreme, si “The Odyssey” (2026) i rremë, dhe klipet që s'ishin filma. Më pak ngecje gjatë shikimit. Filmat që janë ende vetëm në kinema nuk hapin kopje të rreme.",
+ "file": "kinoteka2-26.ktu",
+ "sha256": "16a2f383a803b8ae75f9910e5a7e852e9c7b34d64bbdc0d876cd3d66d29ebe27",
+ "size": 6627622,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
