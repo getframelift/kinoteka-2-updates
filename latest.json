@@ -1,10 +1,10 @@
 {
- "code": 40,
- "name": "1.0.40",
- "notes": "TorBox si rezervë: filmat që Real-Debrid i bllokon luhen prej andej (Cilësimet → Real-Debrid → TorBox). Kopjet me emra që Real-Debrid i bllokon provohen të fundit dhe, kur s’ka të tjera, të thuhet menjëherë. 178 filma shqiptarë të plotë nga YouTube (Kapedani, Tomka dhe shokët e tij, Zonja nga qyteti, Liri a vdekje…). Filma të rinj çdo javë pa përditësim. Hapje më e shpejtë në televizorët e ngadaltë.",
- "file": "kinoteka2-40.ktu",
- "sha256": "dcf03ea499ef37f0c262b6a2532861bd89f56a567743eb466085f1d21dbe4488",
- "size": 13916664,
+ "code": 43,
+ "name": "1.0.43",
+ "notes": "Titrat shqip në kohë vetë, pa shtypur asgjë: (1) lista vendos të parën kopjen për të cilën janë bërë titrat shqip, dhe (2) kur titrat janë bërë për një kopje tjetër, Kinoteka dëgjon zërin e filmit dhe i vendos titrat aty ku flasin aktorët (edhe kur titrat shkojnë gjithnjë e më shumë para ose pas). Ndodh vetë në minutën e parë të filmit. Edhe: TorBox si rezervë, filma shqiptarë të plotë nga YouTube, filma të rinj çdo javë.",
+ "file": "kinoteka2-43.ktu",
+ "sha256": "3a2765bf843b6c86d22746da9188a141c5396e76c38ee34f2d06e09bc7e7c685",
+ "size": 13924856,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
