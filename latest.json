@@ -1,10 +1,10 @@
 {
- "code": 35,
- "name": "1.0.35",
- "notes": "Posterat dalin menjëherë: ato të rreshtave pasardhës merren përpara, dhe çdo poster shkarkohet vetëm një herë. Çdo film ka tani tema dhe atmosferë (p.sh. “I errët · Me suspancë”), edhe në filtra. Butoni Seriale tregohet si i zgjedhur.",
- "file": "kinoteka2-35.ktu",
- "sha256": "3cc518d91d1182eadd451ab420ba870ec362c4338338fda2a9f5a59f6334ca4c",
- "size": 13822204,
+ "code": 37,
+ "name": "1.0.37",
+ "notes": "Rregullime pas një kontrolli të plotë: “Vazhdo” tani ka kopje rezervë (p.sh. nëse zëri në anglisht nuk luhet), filmat gjejnë burimet edhe me internet të dobët, dhe filmat pa titra shqip apo anglisht te shërbimet e zakonshme marrin titra anglisht nga OpenSubtitles.org dhe SubDL, të përkthyera në shqip.",
+ "file": "kinoteka2-37.ktu",
+ "sha256": "55fe7f59e72365d059b2349f1aac11493759f80cf065174f5716ea9cf9f23ed7",
+ "size": 13863164,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
