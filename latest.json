@@ -1,9 +1,9 @@
 {
- "code": 54,
- "name": "1.0.54",
- "notes": "Lojtari nuk kalon më nga kopja në kopje kur filmi nuk ka zë në gjuhën e tij origjinale (p.sh. filmat italianë me zë anglisht): luan në anglisht. Titrat shqip vendosen në kohë edhe kur skedari është bërë për një kopje me shpejtësi pak të ndryshme. Burim i ri titrash: SubSource (me një çelës falas te Cilësimet).",
- "file": "kinoteka2-54.ktu",
- "sha256": "1c9a5428cdf02d1bc813a1ebd9a88187748860e024a6267234eed02fd955139b",
+ "code": 56,
+ "name": "1.0.56",
+ "notes": "Filmat shqiptarë në YouTube vijnë tani vetëm nga kanali Kinemaja Shqiptare: 171 filma (Kapedani, Përballimi, Gjeneral Gramafoni, Kur zbardhi një ditë, Toka jonë…). Filmat shqiptarë me kopje në Real-Debrid mbeten.",
+ "file": "kinoteka2-56.ktu",
+ "sha256": "7c221b94e50a4fb4991bdacfa01e4c46bf1ef94f5fdcf83ceda99a4e6d38d0dd",
  "size": 13937144,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
