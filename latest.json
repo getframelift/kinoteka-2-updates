@@ -1,10 +1,10 @@
 {
- "code": 59,
- "name": "1.0.59",
- "notes": "Kreu tani ka vetëm filma (serialet janë te butoni Seriale). Rresht i ri \"Sot për ty\": filma të zgjedhur sipas shijes, të rinj çdo ditë. Te kategoritë shfaqen emri, vlerësimi dhe përmbledhja e filmit ku je. Përmbledhja nuk zhduket më kur luan trailer-i dhe nuk pritet nga rreshti poshtë.",
- "file": "kinoteka2-59.ktu",
- "sha256": "1a0af1fc0da53e46bf224f7f3e105f234f330ad33295e2d838e7475d47484d3f",
- "size": 13937144,
+ "code": 61,
+ "name": "1.0.61",
+ "notes": "Titra shqip për çdo film: kur nuk ka titra të bëra nga njerëz (ose asnjë s’është në kohë me kopjen), Gemini (AI e Google) përkthen titrat anglisht që janë në kohë me filmin. Rreshtat e parë vijnë për pak sekonda, pjesa tjetër brenda një minute. Titrat e njerëzve mbeten gjithmonë të parat.",
+ "file": "kinoteka2-61.ktu",
+ "sha256": "8f155bc5498951e8e7004c4ff8ae85898c8a81ccd5c7581b2fe1aa336424dcbd",
+ "size": 13945336,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
