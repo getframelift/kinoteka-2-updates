@@ -1,10 +1,10 @@
 {
- "code": 56,
- "name": "1.0.56",
- "notes": "Filmat shqiptarë në YouTube vijnë tani vetëm nga kanali Kinemaja Shqiptare: 171 filma (Kapedani, Përballimi, Gjeneral Gramafoni, Kur zbardhi një ditë, Toka jonë…). Filmat shqiptarë me kopje në Real-Debrid mbeten.",
- "file": "kinoteka2-56.ktu",
- "sha256": "7c221b94e50a4fb4991bdacfa01e4c46bf1ef94f5fdcf83ceda99a4e6d38d0dd",
- "size": 13937144,
+ "code": 59,
+ "name": "1.0.59",
+ "notes": "Kreu tani ka vetëm filma (serialet janë te butoni Seriale). Rresht i ri \"Sot për ty\": filma të zgjedhur sipas shijes, të rinj çdo ditë. Te kategoritë shfaqen emri, vlerësimi dhe përmbledhja e filmit ku je. Përmbledhja nuk zhduket më kur luan trailer-i dhe nuk pritet nga rreshti poshtë.",
+ "file": "kinoteka2-59.ktu",
+ "sha256": "1c5b5fcf624303b1fb26be3f0f9121b2264308fd832f4d0957b371ddda1e1223",
+ "size": 13937176,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
