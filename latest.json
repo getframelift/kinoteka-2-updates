@@ -1,9 +1,9 @@
 {
- "code": 48,
- "name": "1.0.48",
- "notes": "Titrat shqip në kohë që nga rreshti i parë, në një mënyrë të re: Kinoteka lexon kohët e titrave që filmi ka brenda vetes (rreth 1 MB, ndërsa zgjedh burimin) dhe i vendos titrat shqip mbi to para se filmi të nisë, edhe kur kopja ka logo të tjera në fillim, shpejtësi tjetër (25/24 fps) ose një skenë më shumë. Titrat që i përkasin më shumë kësaj kopjeje dalin të parët. Dëgjimi i zërit u hoq: nuk punonte mirë.",
- "file": "kinoteka2-48.ktu",
- "sha256": "aa9c848e6a53fa03daac999557956a72ecf9721c695358cb0042f78a5e5a65b7",
+ "code": 50,
+ "name": "1.0.50",
+ "notes": "Titrat shqip në kohë me filmin: çdo skedar shqip krahasohet me titrat që filmi ka brenda vetes. Kur asnjë skedar shqip nuk është bërë për këtë kopje (p.sh. Furiosa: titrat shqip ishin bërë për një regjistrim nga kinemaja), Kinoteka përkthen në shqip titrat anglisht që janë në kohë me filmin dhe i shfaq ato. Kjo bëhet ndërsa zgjedh burimin, ndaj zakonisht janë gati kur shtyp OK.",
+ "file": "kinoteka2-50.ktu",
+ "sha256": "9fa731b1008108363622eb9c4fd108601caf6bf0f4fbc2268b95e548405f5509",
  "size": 13933048,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
