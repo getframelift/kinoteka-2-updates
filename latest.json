@@ -1,9 +1,9 @@
 {
- "code": 52,
- "name": "1.0.52",
- "notes": "Kopja e parë në listë është ajo me të cilën titrat shqip janë në kohë: ndërsa shikon listën, Kinoteka kontrollon kopjet më të mira një nga një me titrat shqip dhe e vë të parën atë që përputhet (“Titrat shqip në kohë me këtë kopje ✓”). Më shumë titra shqip (Subf2m). Pa përkthim automatik nga Google, përveç nëse e zgjedh te Cilësimet.",
- "file": "kinoteka2-52.ktu",
- "sha256": "6b7630bf0cbd4f7f317c6c5f8960309f81208a0ed6dd07817d649966e7d81138",
+ "code": 54,
+ "name": "1.0.54",
+ "notes": "Lojtari nuk kalon më nga kopja në kopje kur filmi nuk ka zë në gjuhën e tij origjinale (p.sh. filmat italianë me zë anglisht): luan në anglisht. Titrat shqip vendosen në kohë edhe kur skedari është bërë për një kopje me shpejtësi pak të ndryshme. Burim i ri titrash: SubSource (me një çelës falas te Cilësimet).",
+ "file": "kinoteka2-54.ktu",
+ "sha256": "1c9a5428cdf02d1bc813a1ebd9a88187748860e024a6267234eed02fd955139b",
  "size": 13937144,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
