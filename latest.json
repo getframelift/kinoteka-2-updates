@@ -3,8 +3,8 @@
  "name": "1.0.59",
  "notes": "Kreu tani ka vetëm filma (serialet janë te butoni Seriale). Rresht i ri \"Sot për ty\": filma të zgjedhur sipas shijes, të rinj çdo ditë. Te kategoritë shfaqen emri, vlerësimi dhe përmbledhja e filmit ku je. Përmbledhja nuk zhduket më kur luan trailer-i dhe nuk pritet nga rreshti poshtë.",
  "file": "kinoteka2-59.ktu",
- "sha256": "1c5b5fcf624303b1fb26be3f0f9121b2264308fd832f4d0957b371ddda1e1223",
- "size": 13937176,
+ "sha256": "1a0af1fc0da53e46bf224f7f3e105f234f330ad33295e2d838e7475d47484d3f",
+ "size": 13937144,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
