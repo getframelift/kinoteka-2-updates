@@ -1,10 +1,10 @@
 {
- "code": 61,
- "name": "1.0.61",
- "notes": "Titra shqip për çdo film: kur nuk ka titra të bëra nga njerëz (ose asnjë s’është në kohë me kopjen), Gemini (AI e Google) përkthen titrat anglisht që janë në kohë me filmin. Rreshtat e parë vijnë për pak sekonda, pjesa tjetër brenda një minute. Titrat e njerëzve mbeten gjithmonë të parat.",
- "file": "kinoteka2-61.ktu",
- "sha256": "8f155bc5498951e8e7004c4ff8ae85898c8a81ccd5c7581b2fe1aa336424dcbd",
- "size": 13945336,
+ "code": 63,
+ "name": "1.0.63",
+ "notes": "Përkthimi me AI tani e lexon gjithë filmin më parë: di kush është burrë e kush grua, si i flasin njëri-tjetrit dhe i përkthen emrat e fjalët gjithmonë njësoj. U hoqën 1 859 filma pa asnjë titër (as shqip, as anglisht).",
+ "file": "kinoteka2-63.ktu",
+ "sha256": "fef26394fd90c6681d8e91cd262b4b7dfe89b0c34b13f059bd9ea8ed91aab0c5",
+ "size": 13474296,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
