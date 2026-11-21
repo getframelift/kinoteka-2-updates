@@ -1,9 +1,9 @@
 {
- "code": 63,
- "name": "1.0.63",
- "notes": "Përkthimi me AI tani e lexon gjithë filmin më parë: di kush është burrë e kush grua, si i flasin njëri-tjetrit dhe i përkthen emrat e fjalët gjithmonë njësoj. U hoqën 1 859 filma pa asnjë titër (as shqip, as anglisht).",
- "file": "kinoteka2-63.ktu",
- "sha256": "fef26394fd90c6681d8e91cd262b4b7dfe89b0c34b13f059bd9ea8ed91aab0c5",
+ "code": 66,
+ "name": "1.0.66",
+ "notes": "Titrat e përkthyera me AI ruhen për të gjitha pajisjet: një film i përkthyer një herë nuk përkthehet më. Natën përkthehen me kujdes (me kontroll të dytë) filmat më të shikuar pa titra shqip. SubDL dhe SubSource kërkohen tani në çdo pajisje.",
+ "file": "kinoteka2-66.ktu",
+ "sha256": "ae77d98d52c74574fe9e7be91b13ba47ba5d7987a7a0d170e7eca1a65730d301",
  "size": 13474296,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
