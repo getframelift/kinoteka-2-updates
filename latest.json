@@ -1,10 +1,10 @@
 {
- "code": 75,
- "name": "1.0.75",
- "notes": "Titrat shqip me AI tani kalojnë në tre hapa: përkthimi, një redaktor që i rishikon të gjitha rreshtat, dhe një redaktor i fundit më i fortë për rreshtat e vështirë. Më të sakta, dhe secila zë vendin e së parës pa e ndalur filmin.",
- "file": "kinoteka2-75.ktu",
- "sha256": "b6d0a3963efb50560f6298227207cd63dd7c218f14a743afa14ad0112a31e232",
- "size": 13482488,
+ "code": 77,
+ "name": "1.0.77",
+ "notes": "Shtyp “Shiko” dhe kaq: Kinoteka zgjedh vetë kopjen më të mirë për këtë televizor, përgatit titrat shqip në kohë me filmin dhe tregon ekranin e filmit derisa të nisë. “Zgjidh burimin” te filmi e tregon ende listën.",
+ "file": "kinoteka2-77.ktu",
+ "sha256": "c026b2dab79b561af64a89bd383930e44c67dbf4598675cd99f3ba5abd7483a9",
+ "size": 13573186,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
