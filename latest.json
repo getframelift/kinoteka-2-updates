@@ -1,10 +1,10 @@
 {
- "code": 90,
- "name": "1.0.90",
- "notes": "Kinoteka hapet direkt te profili yt. Kur qëndron te faqja e një filmi, filmi përgatitet vetë: “Shiko” e nis menjëherë.",
- "file": "kinoteka2-90.ktu",
- "sha256": "a5432422a45b4e2777969ba5ff24cbbf943db10d68f9d37ae635c80eab59649f",
- "size": 13580506,
+ "code": 92,
+ "name": "1.0.92",
+ "notes": "“A je ende duke parë?” si te Netflix: pas 3 episodeve rresht pa shtypur asnjë buton, episodi tjetër ndalon dhe pyet.",
+ "file": "kinoteka2-92.ktu",
+ "sha256": "0d20cbb787ed2577f2f00179492bf896c851b9385e3c7c021a0fad5bbf68f354",
+ "size": 13581710,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
