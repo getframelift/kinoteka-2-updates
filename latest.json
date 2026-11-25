@@ -1,10 +1,10 @@
 {
- "code": 84,
- "name": "1.0.84",
- "notes": "Titrat shqip tani zgjidhen që të jenë për gjithë filmin (te The Pianist dilte një skedar që fillonte vetëm pas minutës 8).",
- "file": "kinoteka2-84.ktu",
- "sha256": "b3a193e09f17b47352c35d9b1f85d2e03676d5fd800f263d184d16494a9ead2d",
- "size": 13574858,
+ "code": 86,
+ "name": "1.0.86",
+ "notes": "Hyrje e re kinematografike. Filmat nisin më shpejt: kopjet dhe titrat kërkohen që kur qëndron te filmi.",
+ "file": "kinoteka2-86.ktu",
+ "sha256": "626e26f6cd9f652658ec47b2de294e6f4c6a80b966551f37ccfc63141ef934ff",
+ "size": 13577830,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
