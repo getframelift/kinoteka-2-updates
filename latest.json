@@ -1,10 +1,10 @@
 {
- "code": 86,
- "name": "1.0.86",
- "notes": "Hyrje e re kinematografike. Filmat nisin më shpejt: kopjet dhe titrat kërkohen që kur qëndron te filmi.",
- "file": "kinoteka2-86.ktu",
- "sha256": "626e26f6cd9f652658ec47b2de294e6f4c6a80b966551f37ccfc63141ef934ff",
- "size": 13577830,
+ "code": 88,
+ "name": "1.0.88",
+ "notes": "Titrat mund të bëhen më të mëdha, me një sfond të errët pas fjalëve (Cilësimet → Profili, ose gjatë filmit te “Audio dhe titrat”).",
+ "file": "kinoteka2-88.ktu",
+ "sha256": "9d6d267fe7e959f301d23b7469896de9db0e0a27c3d1457fc7e1b31f182cbe13",
+ "size": 13578546,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
