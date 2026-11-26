@@ -1,10 +1,10 @@
 {
- "code": 94,
- "name": "1.0.94",
- "notes": "Pamje e re si Netflix; çmimet Oscar; “Më zgjidh një film”; rreshta për festat; “Episod i ri” te serialet; “Kapërce hyrjen”; filmat nisin më shpejt.",
- "file": "kinoteka2-94.ktu",
- "sha256": "45c148f84575fc0b67768b5bc5f6db582689e9a9246111c24cee3d931fcc4b4a",
- "size": 13617663,
+ "code": 96,
+ "name": "1.0.96",
+ "notes": "Fotot e filmave dalin më shpejt dhe kurrë të gabuara; me internet të ngadaltë filmat dhe trailerat presin më shumë; “Shiko në YouTube” kur një film nuk hapet.",
+ "file": "kinoteka2-96.ktu",
+ "sha256": "49273fbdc0d03a8809d71fd0359dc4d315d9f1eca43a85c2c5c050b0aa78f180",
+ "size": 13618647,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
