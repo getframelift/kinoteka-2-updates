@@ -1,10 +1,10 @@
 {
- "code": 98,
- "name": "1.0.98",
- "notes": "Te titrat shkruhet qartë cilat janë bërë nga njerëz dhe cilat janë përkthim automatik.",
- "file": "kinoteka2-98.ktu",
- "sha256": "39dbf7a454dd61aed56b765053aabb5a4e1694c9c03d9a0ad8f9352cd7bf93cf",
- "size": 13618683,
+ "code": 99,
+ "name": "1.0.99",
+ "notes": "Përgatitje për titrat shqip nga një faqe tjetër.",
+ "file": "kinoteka2-99.ktu",
+ "sha256": "ca1f8115ec92bd8fdd6013d33be683a97d24629a37f18b586b56d7f2acada782",
+ "size": 13620039,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
