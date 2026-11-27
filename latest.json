@@ -1,10 +1,10 @@
 {
- "code": 118,
- "name": "1.1.08",
- "notes": "Pa pyetjen “Vazhdo?” në hapje; emrat te kërkimi; përshkrimi i plotë; tekst i lexueshëm mbi trailer; shenjat si Netflix; ekran i ri përditësimi.",
- "file": "kinoteka2-118.ktu",
- "sha256": "e664c0e55a7ef2559abe0875f0afb0b8f8cc408054dc5f4276115b896f84f24d",
- "size": 13642217,
+ "code": 120,
+ "name": "1.1.09",
+ "notes": "Pamje e re: menyja me fjalë gjithmonë të dukshme; emri i filmit nën çdo poster; “▶ Shiko” dhe “Më shumë” lart (shtyp lart nga rreshti i parë)",
+ "file": "kinoteka2-120.ktu",
+ "sha256": "7f29dfab22102454bb700e50d7690036545290a6478297f40838cf41d8b1e228",
+ "size": 13643105,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
