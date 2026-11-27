@@ -1,10 +1,10 @@
 {
- "code": 102,
- "name": "1.1.00",
- "notes": "Përgatitje për titrat shqip nga faqe të tjera.",
- "file": "kinoteka2-102.ktu",
- "sha256": "bc80f611c0953342ee3044cddff2f6f0c7c776d1f0f34f5ea1516fd2ca5a0444",
- "size": 13620335,
+ "code": 104,
+ "name": "1.1.01",
+ "notes": "Butoni “filma24” te faqja e filmit (provë).",
+ "file": "kinoteka2-104.ktu",
+ "sha256": "159dba8b3c21bf095597833c5eb6b66a533cf161a75a75bebacab69bb661f32e",
+ "size": 13621323,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
