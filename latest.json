@@ -1,10 +1,10 @@
 {
- "code": 96,
- "name": "1.0.96",
- "notes": "Fotot e filmave dalin më shpejt dhe kurrë të gabuara; me internet të ngadaltë filmat dhe trailerat presin më shumë; “Shiko në YouTube” kur një film nuk hapet.",
- "file": "kinoteka2-96.ktu",
- "sha256": "49273fbdc0d03a8809d71fd0359dc4d315d9f1eca43a85c2c5c050b0aa78f180",
- "size": 13618647,
+ "code": 98,
+ "name": "1.0.98",
+ "notes": "Te titrat shkruhet qartë cilat janë bërë nga njerëz dhe cilat janë përkthim automatik.",
+ "file": "kinoteka2-98.ktu",
+ "sha256": "39dbf7a454dd61aed56b765053aabb5a4e1694c9c03d9a0ad8f9352cd7bf93cf",
+ "size": 13618683,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
