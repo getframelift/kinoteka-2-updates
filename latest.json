@@ -1,10 +1,10 @@
 {
- "code": 116,
- "name": "1.1.07",
- "notes": "filma24 vetëm për filmat pa titra shqip të bëra nga njerëz.",
- "file": "kinoteka2-116.ktu",
- "sha256": "a0e4e2857d3f130425f3a4fd2d2d26136a3b3c18f7c5de4db1a5ae35dce027cc",
- "size": 13640349,
+ "code": 118,
+ "name": "1.1.08",
+ "notes": "Pa pyetjen “Vazhdo?” në hapje; emrat te kërkimi; përshkrimi i plotë; tekst i lexueshëm mbi trailer; shenjat si Netflix; ekran i ri përditësimi.",
+ "file": "kinoteka2-118.ktu",
+ "sha256": "e664c0e55a7ef2559abe0875f0afb0b8f8cc408054dc5f4276115b896f84f24d",
+ "size": 13642217,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
