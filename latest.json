@@ -1,10 +1,10 @@
 {
- "code": 110,
- "name": "1.1.04",
- "notes": "Titrat shqip të filma24 shkarkohen tani si në shfletues.",
- "file": "kinoteka2-110.ktu",
- "sha256": "aa4f602b66bf660aff454b3ec71f7d2b820b47a2924d1eb6d81e90b21bba8f72",
- "size": 13638477,
+ "code": 112,
+ "name": "1.1.05",
+ "notes": "filma24: çdo film gjendet me adresën e vet.",
+ "file": "kinoteka2-112.ktu",
+ "sha256": "6ae3279f4c5c78bcb07859f20d775c7b7be8a5d9d31afe2a684d0c171eacc740",
+ "size": 13638597,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
