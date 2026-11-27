@@ -1,10 +1,10 @@
 {
- "code": 108,
- "name": "1.1.03",
- "notes": "Titrat shqip të filma24 me kopjen më të mirë të filmit (1080p / 4K).",
- "file": "kinoteka2-108.ktu",
- "sha256": "1c9543367671679122eac21ab9ce46eab2e732b08dc8be4590f1829163dc5444",
- "size": 13637237,
+ "code": 110,
+ "name": "1.1.04",
+ "notes": "Titrat shqip të filma24 shkarkohen tani si në shfletues.",
+ "file": "kinoteka2-110.ktu",
+ "sha256": "aa4f602b66bf660aff454b3ec71f7d2b820b47a2924d1eb6d81e90b21bba8f72",
+ "size": 13638477,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
