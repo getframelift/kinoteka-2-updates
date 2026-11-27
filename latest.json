@@ -1,10 +1,10 @@
 {
- "code": 104,
- "name": "1.1.01",
- "notes": "Butoni “filma24” te faqja e filmit (provë).",
- "file": "kinoteka2-104.ktu",
- "sha256": "159dba8b3c21bf095597833c5eb6b66a533cf161a75a75bebacab69bb661f32e",
- "size": 13621323,
+ "code": 106,
+ "name": "1.1.02",
+ "notes": "Pa më titra me AI: filmat pa titra shqip nga njerëz luhen nga filma24 me titrat e tyre; filmat pa asnjërën fshihen.",
+ "file": "kinoteka2-106.ktu",
+ "sha256": "357a3716d6805581ca079f24ac5dbbff27d31e70019ea8199e648af5dffd8b90",
+ "size": 13637381,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
