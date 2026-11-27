@@ -1,10 +1,10 @@
 {
- "code": 106,
- "name": "1.1.02",
- "notes": "Pa më titra me AI: filmat pa titra shqip nga njerëz luhen nga filma24 me titrat e tyre; filmat pa asnjërën fshihen.",
- "file": "kinoteka2-106.ktu",
- "sha256": "357a3716d6805581ca079f24ac5dbbff27d31e70019ea8199e648af5dffd8b90",
- "size": 13637381,
+ "code": 108,
+ "name": "1.1.03",
+ "notes": "Titrat shqip të filma24 me kopjen më të mirë të filmit (1080p / 4K).",
+ "file": "kinoteka2-108.ktu",
+ "sha256": "1c9543367671679122eac21ab9ce46eab2e732b08dc8be4590f1829163dc5444",
+ "size": 13637237,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
