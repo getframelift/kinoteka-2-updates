@@ -1,10 +1,10 @@
 {
- "code": 122,
- "name": "1.1.10",
- "notes": "Filmat shqip hapen nga filma24 (YouTube vetëm kur filma24 s’e ka); butoni “YouTube” mbetet te faqja e filmit",
- "file": "kinoteka2-122.ktu",
- "sha256": "72261bfe5eb0049b5db23f5051f2ba4719cefd9f078ae280600f450985ed3e30",
- "size": 13644445,
+ "code": 124,
+ "name": "1.1.11",
+ "notes": "Filmat shqip që ka filma24 e që s’i kishim shtohen vetë në Kinotekë; filmat shqip hapen nga filma24 (YouTube vetëm kur filma24 s’e ka)",
+ "file": "kinoteka2-124.ktu",
+ "sha256": "9b26c4ad62c6b5502714e350232671c55e6132644528675b9df1e77d9f289e9b",
+ "size": 13646065,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
