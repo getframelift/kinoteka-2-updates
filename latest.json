@@ -1,10 +1,10 @@
 {
- "code": 120,
- "name": "1.1.09",
- "notes": "Pamje e re: menyja me fjalë gjithmonë të dukshme; emri i filmit nën çdo poster; “▶ Shiko” dhe “Më shumë” lart (shtyp lart nga rreshti i parë)",
- "file": "kinoteka2-120.ktu",
- "sha256": "7f29dfab22102454bb700e50d7690036545290a6478297f40838cf41d8b1e228",
- "size": 13643105,
+ "code": 122,
+ "name": "1.1.10",
+ "notes": "Filmat shqip hapen nga filma24 (YouTube vetëm kur filma24 s’e ka); butoni “YouTube” mbetet te faqja e filmit",
+ "file": "kinoteka2-122.ktu",
+ "sha256": "72261bfe5eb0049b5db23f5051f2ba4719cefd9f078ae280600f450985ed3e30",
+ "size": 13644445,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
