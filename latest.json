@@ -1,10 +1,10 @@
 {
- "code": 124,
- "name": "1.1.11",
- "notes": "Filmat shqip që ka filma24 e që s’i kishim shtohen vetë në Kinotekë; filmat shqip hapen nga filma24 (YouTube vetëm kur filma24 s’e ka)",
- "file": "kinoteka2-124.ktu",
- "sha256": "9b26c4ad62c6b5502714e350232671c55e6132644528675b9df1e77d9f289e9b",
- "size": 13646065,
+ "code": 126,
+ "name": "1.1.12",
+ "notes": "Hyrja më e butë (Kreu gati pas saj, çdo buton e kalon); pa kutinë e ndritshme mbi postera; njoftimet lart djathtas; butonat lart s’priten më; përshkrime me fjali të plota; Cilësimet pa tekst të prerë; fokusi gjithmonë i plotë",
+ "file": "kinoteka2-126.ktu",
+ "sha256": "9b462e81b0ffe9163cf7b8f2ed33e4ad9d43c82cca724620098f60228b9541f7",
+ "size": 13652441,
  "fb": {
   "key": "AIzaSyCURczmPy4VEmlV4p166ZzkU16k8wS81JQ",
   "db": "https://kinoteka-87b10-default-rtdb.europe-west1.firebasedatabase.app"
